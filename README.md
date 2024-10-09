@@ -47,3 +47,4 @@ FORMAT([Date],"DD"))
 - Amount total YTD = TOTALYTD('Order_Details'[Amount],'Calendar'[Date]) 
 - Amount same period Last Year = CALCULATE([Amount],SAMEPERIODLASTYEAR('Calendar'[Date]))
 - 3.Cделала визуализацию
+- ![calendar](https://github.com/Bagi01bagi/my_first/blob/main/calendar.png)
